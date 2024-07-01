@@ -3,10 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvvshid04&label=Profile%20views&color=0e75b6&style=flat" alt="rvvshid04" /> </p>
 
+- [] I'm a software engineering (2nd Year equivalent) student at the Faculty of Computing, ESOFT Metro Campus, Kandy, Sri Lanka.
+
 - 🤝 I’m looking to collaborate on **Full-stack Web dev, ML and Data Science Projects**
 
-- 📄 All of my projects are available at [(Still in development...)]((Still in development...))
-
+- 📄 All of my projects are available at https://rvvshid04.github.io/Portfolio-v1/
+- 
 - 📫 How to reach me **raashid.arq@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
