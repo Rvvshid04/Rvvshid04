@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvvshid04&label=Profile%20views&color=0e75b6&style=flat" alt="rvvshid04" /> </p>
 
-- [] I'm a software engineering (2nd Year equivalent) student at the Faculty of Computing, ESOFT Metro Campus, Kandy, Sri Lanka.
+- [] I'm in my penultimate year of my course as software engineering= student at the Faculty of Computing, ESOFT Metro Campus, Kandy, Sri Lanka. A prospective student for a Top Up in Computer Science undergraduate from Kingston University, London.
 
-- 🤝 I’m looking to collaborate on **Full-stack Web dev, ML and Data Science Projects**
+- 🤝 I work on my personal project on my own time and I am open collaborate on **Software Development and Data Science Projects**
 
-- 📄 All of my projects are available at https://rvvshid04.github.io/Portfolio-v1/
+- 📄 All of my projects are available at https://rvvshid04.github.io/Portfolio-v1/ (Note: at the time of writing this, I've yet to add them, so hold on!)
 - 
 - 📫 How to reach me **raashid.arq@gmail.com**
 
