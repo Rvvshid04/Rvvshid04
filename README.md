@@ -7,7 +7,7 @@
 
 - 🤝 I work on my personal project on my own time and I am open collaborate on **Software Development and Data Science Projects**
 
-- 📄 All of my projects are yet-to-be-available at https://rvvshid04.github.io/Portfolio-v1/ (Note: Wait for v1.1+ for project sections and other changes/additions)
+- 📄 All of my projects are yet-to-be-available at https://rvvshid04.github.io/Portfolio-v1/ (Note: Wait for v1.1+ for project sections, updated CV and other changes/additions)
   
 - 📫 How to reach me **raashid.arq@gmail.com**
 
