@@ -12,7 +12,7 @@ I’m a Software Engineering Undergrad in a Kingston University degree program. 
 ## Get in Touch
 
 Feel free to check out my portfolio:  
-[My Portfolio](https://rvvshid04.github.io/Portfolio-v1/)  
+[My Portfolio](https://rvvshid04.github.io/Portfolio/)  
 
 You can also reach me via email:  
 [**raashid.arq@gmail.com**](mailto:raashid.arq@gmail.com)
