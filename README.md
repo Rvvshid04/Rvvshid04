@@ -5,7 +5,7 @@
 
 ---
 
-### I’m a Software Engineering Undergrad in a Kingston University degree program. Currently based in the tropical island of Sri Lanka 🌏.
+I’m a Software Engineering Undergrad in a Kingston University degree program. Currently based in the tropical island of Sri Lanka 🌏.
 
 ## What I’m Working On
 
