@@ -4,24 +4,22 @@
 </h1>
 
 ---
-
-I’m a Software Engineering Undergrad in a Kingston University degree program. Currently based in the tropical island of Sri Lanka 🌏.
-
-## What I’m Working On
-
-- I’m currently focused on my education, personal projects, and learning new things in tech.
-- I’m open to collaboration and would love to work with others on interesting projects.
-
+## About Me
+- 🎓 I’m a Software Engineering Undergrad in a Kingston University degree program.
+- 🌏 Currently based in the tropical island of Sri Lanka .
+- 💻 I’m focused on learning, building personal projects, and exploring new things in tech.
+- 🤝 I’m open to collaboration and would love to work with others on interesting projects.
+ 
 ---
  
 ## Get in Touch
 
-##### Feel free to check out my portfolio
+##### 📂 Check out my site
 <a href="https://rvvshid04.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
 </a>
 
-##### You can reach me through:   
+##### 📬 Reach out if you’re working on something exciting or just want to connect!
 <div align="left"> 
   <a href="mailto:raashid.arq@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
