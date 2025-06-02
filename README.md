@@ -1,4 +1,3 @@
-# Welcome to My GitHub Profile
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raashid+Arquil!;" />
@@ -6,7 +5,7 @@
 
 ---
 
-I’m a Software Engineering Undergrad in a Kingston University degree program. Currently based in the tropical island of Sri Lanka 🌏.
+### I’m a Software Engineering Undergrad in a Kingston University degree program. Currently based in the tropical island of Sri Lanka 🌏.
 
 ## What I’m Working On
 
