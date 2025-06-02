@@ -41,4 +41,4 @@ I’m a Software Engineering Undergrad in a Kingston University degree program. 
 
 ## Thanks for visiting my profile!
 
-<p> This ReadMe file was inspired from work created by [Pedro Muniz](https://github.com/salesp07) and is used under the MIT License. As well as [tobiasmeyhoefer](https://github.com/tobiasmeyhoefer) . </p>
+This ReadMe file was inspired from work created by [Pedro Muniz](https://github.com/salesp07) and is used under the MIT License. As well as [tobiasmeyhoefer](https://github.com/tobiasmeyhoefer) .
