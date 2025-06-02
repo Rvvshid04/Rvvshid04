@@ -35,12 +35,13 @@ I’m a Software Engineering Undergrad in a Kingston University degree program. 
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rvvshid04/rvvshid04/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    </picture>
 </div>
 
 ## Thanks for visiting my profile!
 
-<p> This ReadMe file was inspired from work created by [Pedro Muniz](https://github.com/salesp07) and is used under the MIT License. As well as (https://github.com/tobiasmeyhoefer) . </p>
+<p> This ReadMe file was inspired from work created by [Pedro Muniz](https://github.com/salesp07) and is used under the MIT License. As well as [tobiasmeyhoefer](https://github.com/tobiasmeyhoefer) . </p>
