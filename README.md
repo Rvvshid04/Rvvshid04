@@ -39,4 +39,4 @@
 
 ## Thanks for visiting my profile!
 
-This ReadMe file was inspired from work created by [Pedro Muniz](https://github.com/salesp07) and is used under the MIT License. As well as [tobiasmeyhoefer](https://github.com/tobiasmeyhoefer) .
+This ReadMe file was inspired from work created by [Pedro Muniz](https://github.com/salesp07)  as well as [tobiasmeyhoefer](https://github.com/tobiasmeyhoefer) .
