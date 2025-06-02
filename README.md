@@ -34,12 +34,13 @@ I’m a Software Engineering Undergrad in a Kingston University degree program. 
 </div>
 
 <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
- 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rvvshid04/rvvshid04/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
 ## Thanks for visiting my profile!
 
-<p> This README was inspired by @salesp07. </p>
+<p> This ReadMe file was adapted from work originally created by [Pedro Muniz](https://github.com/salesp07) and is used under the MIT License. </p>
