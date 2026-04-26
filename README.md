@@ -5,9 +5,9 @@
 
 ---
 ## About Me
-- 🎓 I’m a Software Engineering Undergrad in a Kingston University degree program.
-- 🌏 Currently based in the tropical island of Sri Lanka .
-- 💻 I’m focused on learning, building personal projects, and exploring new things in tech.
+- 🎓 Kingston Grad. CompSci. 1st Class Honors.
+- 🌱 Actively learning.
+- 🌏 Based in the tropical island of Sri Lanka .
 - 🤝 I’m open to collaboration and would love to work with others on interesting projects.
  
 ---
