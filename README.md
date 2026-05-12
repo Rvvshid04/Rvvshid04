@@ -3,12 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raashid+Arquil!;" />
 </h1>
 -->
-## Hey there 👋, I'm Raashid
+## Hey👋, I'm Raashid
 
 - 🎓 Kingston Grad. CompSci. 1st Class Honors.
-- 🌱 Actively learning. 
-- 🌏 Based in the tropical island of Sri Lanka .
-- 🤝 I’m open to collaboration and would love to work with others on interesting projects.
+- 🌱 Actively learning.
+- 🤝 I’m open to working with others on interesting projects.
+- 🥅 Goal: Build stronger projects. Become production-ready as a developer. 
 
 ### Reach Out! 
 <div align="left"> 
